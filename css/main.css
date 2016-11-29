@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: black;
+  height: 50px;
+  padding: 15px 1%;
+}
+
+h1 {
+  color: yellow;
+  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  font-weight: 600;
+}
+
+ul {
+  text-align: right;
+  font-size: 18px;
+}
+
+.menu-list {
+  color: white;
+  display: inline;
+}
+
+.find {
+  font-family: 'Oswald', sans-serif;
+}
+
+.about {
+  font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    border-top: 3px solid yellow;
+    margin: 0;
+}
+
+.container1 {
+  background-color: #cacaca;
+  clear: both;
+  height: 30px;
+  padding: 20px 0;
+  text-align: center;
+
+}
+
+h2 {
+  color: black;
+  font-family: 'Merriweather', serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.taste {
+  color: gray;
+  text-decoration: line-through;
+}
+
+.are {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: yellow;
+}
+
+
+.container2 {
+  background-image: url("../images/coworking.jpg");
+  height: 500px;
+  background-size: cover;
+}
+
+
+.blurb {
+  background-color: rgba(255, 255, 255, 0.86);
+  float: right;
+  height: 320px;
+  margin: 50px 5% 50px 5%;
+  padding: 40px 4%;
+  width: 25%;
+}
+
+h3 {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.pitch {
+  font-weight: 500;
+}
+
+.container3 {
+  background-color: white;
+  height: 300px;
+}
+
+.feature {
+  float: left;
+  width: 31.33%;
+  height: 300px;
+  padding: 15px 1%;
+}
+
+h4 {
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
+  font-weight: 600;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  padding: 10px 0 20px 0;
+  text-align: left;
+}
+
+.button {
+  border-radius: 4px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  padding: 15px 5%;
+}
+
+.button-yellow {
+  background-color: yellow;
+}
+
+.button-gray {
+  background-color: #cacaca;
+}
+
+footer {
+  background-color: black;
+  clear: both;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  padding: 5px 2%;
+  text-align: left;
+}
